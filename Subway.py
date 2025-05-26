@@ -2,7 +2,6 @@ import cv2
 import mediapipe as mp
 import time
 import pyautogui
-# Keep the handDetector class unchanged
 
 def detectGesture(fingers):
     """
