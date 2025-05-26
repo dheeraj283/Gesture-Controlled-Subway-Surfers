@@ -18,7 +18,6 @@ This project allows you to control the popular game **Subway Surfers** using **h
 - **OpenCV** – real-time image capture and display  
 - **MediaPipe** – hand landmark detection  
 - **pyautogui** – simulate keyboard inputs  
-- **cvzone** *(optional)* – for utility functions (not used in core)  
 
 ## 🛠️ Installation
 
